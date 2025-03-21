@@ -1,0 +1,1102 @@
+[
+    {
+        "pergunta": "O que é o pensamento computacional?",
+        "opcoes": [
+            "Capacidade de decorar códigos de programação",
+            "Habilidade de resolver problemas de forma lógica e eficiente",
+            "Conhecimento avançado em hardware",
+            "Técnica para memorizar linguagens de programação"
+        ],
+        "resposta": "Habilidade de resolver problemas de forma lógica e eficiente",
+        "dica": "É a base para entender e resolver problemas computacionais."
+    },
+    {
+        "pergunta": "Qual é a função principal de um algoritmo?",
+        "opcoes": [
+            "Executar comandos gráficos",
+            "Organizar arquivos de um sistema",
+            "Resolver problemas por meio de uma sequência de passos",
+            "Realizar tarefas manuais"
+        ],
+        "resposta": "Resolver problemas por meio de uma sequência de passos",
+        "dica": "Ele define uma lógica de execução para atingir um objetivo."
+    },
+    {
+        "pergunta": "Qual estrutura de controle é usada para decisões em Python?",
+        "opcoes": [
+            "for",
+            "while",
+            "if",
+            "def"
+        ],
+        "resposta": "if",
+        "dica": "Ela permite a escolha entre caminhos."
+    },
+    {
+        "pergunta": "O que o comando 'for' faz em Python?",
+        "opcoes": [
+            "Cria funções",
+            "Executa repetições baseadas em intervalos ou sequências",
+            "Define variáveis globais",
+            "Interrompe um programa"
+        ],
+        "resposta": "Executa repetições baseadas em intervalos ou sequências",
+        "dica": "Muito usado para iterar listas, strings e ranges."
+    },
+    {
+        "pergunta": "O que é uma variável em programação?",
+        "opcoes": [
+            "Um tipo de erro",
+            "Um número aleatório",
+            "Um local de armazenamento de valores",
+            "Uma linguagem de máquina"
+        ],
+        "resposta": "Um local de armazenamento de valores",
+        "dica": "Serve para guardar dados durante a execução do programa."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 6?",
+        "opcoes": [
+            "Opção A6 (incorreta)",
+            "Opção B6 (incorreta)",
+            "Opção C6 (correta)",
+            "Opção D6 (incorreta)"
+        ],
+        "resposta": "Opção C6 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 6."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 7?",
+        "opcoes": [
+            "Opção A7 (incorreta)",
+            "Opção B7 (incorreta)",
+            "Opção C7 (correta)",
+            "Opção D7 (incorreta)"
+        ],
+        "resposta": "Opção C7 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 7."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 8?",
+        "opcoes": [
+            "Opção A8 (incorreta)",
+            "Opção B8 (incorreta)",
+            "Opção C8 (correta)",
+            "Opção D8 (incorreta)"
+        ],
+        "resposta": "Opção C8 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 8."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 9?",
+        "opcoes": [
+            "Opção A9 (incorreta)",
+            "Opção B9 (incorreta)",
+            "Opção C9 (correta)",
+            "Opção D9 (incorreta)"
+        ],
+        "resposta": "Opção C9 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 9."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 10?",
+        "opcoes": [
+            "Opção A10 (incorreta)",
+            "Opção B10 (incorreta)",
+            "Opção C10 (correta)",
+            "Opção D10 (incorreta)"
+        ],
+        "resposta": "Opção C10 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 10."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 11?",
+        "opcoes": [
+            "Opção A11 (incorreta)",
+            "Opção B11 (incorreta)",
+            "Opção C11 (correta)",
+            "Opção D11 (incorreta)"
+        ],
+        "resposta": "Opção C11 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 11."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 12?",
+        "opcoes": [
+            "Opção A12 (incorreta)",
+            "Opção B12 (incorreta)",
+            "Opção C12 (correta)",
+            "Opção D12 (incorreta)"
+        ],
+        "resposta": "Opção C12 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 12."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 13?",
+        "opcoes": [
+            "Opção A13 (incorreta)",
+            "Opção B13 (incorreta)",
+            "Opção C13 (correta)",
+            "Opção D13 (incorreta)"
+        ],
+        "resposta": "Opção C13 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 13."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 14?",
+        "opcoes": [
+            "Opção A14 (incorreta)",
+            "Opção B14 (incorreta)",
+            "Opção C14 (correta)",
+            "Opção D14 (incorreta)"
+        ],
+        "resposta": "Opção C14 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 14."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 15?",
+        "opcoes": [
+            "Opção A15 (incorreta)",
+            "Opção B15 (incorreta)",
+            "Opção C15 (correta)",
+            "Opção D15 (incorreta)"
+        ],
+        "resposta": "Opção C15 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 15."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 16?",
+        "opcoes": [
+            "Opção A16 (incorreta)",
+            "Opção B16 (incorreta)",
+            "Opção C16 (correta)",
+            "Opção D16 (incorreta)"
+        ],
+        "resposta": "Opção C16 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 16."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 17?",
+        "opcoes": [
+            "Opção A17 (incorreta)",
+            "Opção B17 (incorreta)",
+            "Opção C17 (correta)",
+            "Opção D17 (incorreta)"
+        ],
+        "resposta": "Opção C17 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 17."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 18?",
+        "opcoes": [
+            "Opção A18 (incorreta)",
+            "Opção B18 (incorreta)",
+            "Opção C18 (correta)",
+            "Opção D18 (incorreta)"
+        ],
+        "resposta": "Opção C18 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 18."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 19?",
+        "opcoes": [
+            "Opção A19 (incorreta)",
+            "Opção B19 (incorreta)",
+            "Opção C19 (correta)",
+            "Opção D19 (incorreta)"
+        ],
+        "resposta": "Opção C19 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 19."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 20?",
+        "opcoes": [
+            "Opção A20 (incorreta)",
+            "Opção B20 (incorreta)",
+            "Opção C20 (correta)",
+            "Opção D20 (incorreta)"
+        ],
+        "resposta": "Opção C20 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 20."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 21?",
+        "opcoes": [
+            "Opção A21 (incorreta)",
+            "Opção B21 (incorreta)",
+            "Opção C21 (correta)",
+            "Opção D21 (incorreta)"
+        ],
+        "resposta": "Opção C21 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 21."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 22?",
+        "opcoes": [
+            "Opção A22 (incorreta)",
+            "Opção B22 (incorreta)",
+            "Opção C22 (correta)",
+            "Opção D22 (incorreta)"
+        ],
+        "resposta": "Opção C22 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 22."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 23?",
+        "opcoes": [
+            "Opção A23 (incorreta)",
+            "Opção B23 (incorreta)",
+            "Opção C23 (correta)",
+            "Opção D23 (incorreta)"
+        ],
+        "resposta": "Opção C23 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 23."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 24?",
+        "opcoes": [
+            "Opção A24 (incorreta)",
+            "Opção B24 (incorreta)",
+            "Opção C24 (correta)",
+            "Opção D24 (incorreta)"
+        ],
+        "resposta": "Opção C24 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 24."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 25?",
+        "opcoes": [
+            "Opção A25 (incorreta)",
+            "Opção B25 (incorreta)",
+            "Opção C25 (correta)",
+            "Opção D25 (incorreta)"
+        ],
+        "resposta": "Opção C25 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 25."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 26?",
+        "opcoes": [
+            "Opção A26 (incorreta)",
+            "Opção B26 (incorreta)",
+            "Opção C26 (correta)",
+            "Opção D26 (incorreta)"
+        ],
+        "resposta": "Opção C26 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 26."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 27?",
+        "opcoes": [
+            "Opção A27 (incorreta)",
+            "Opção B27 (incorreta)",
+            "Opção C27 (correta)",
+            "Opção D27 (incorreta)"
+        ],
+        "resposta": "Opção C27 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 27."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 28?",
+        "opcoes": [
+            "Opção A28 (incorreta)",
+            "Opção B28 (incorreta)",
+            "Opção C28 (correta)",
+            "Opção D28 (incorreta)"
+        ],
+        "resposta": "Opção C28 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 28."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 29?",
+        "opcoes": [
+            "Opção A29 (incorreta)",
+            "Opção B29 (incorreta)",
+            "Opção C29 (correta)",
+            "Opção D29 (incorreta)"
+        ],
+        "resposta": "Opção C29 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 29."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 30?",
+        "opcoes": [
+            "Opção A30 (incorreta)",
+            "Opção B30 (incorreta)",
+            "Opção C30 (correta)",
+            "Opção D30 (incorreta)"
+        ],
+        "resposta": "Opção C30 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 30."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 31?",
+        "opcoes": [
+            "Opção A31 (incorreta)",
+            "Opção B31 (incorreta)",
+            "Opção C31 (correta)",
+            "Opção D31 (incorreta)"
+        ],
+        "resposta": "Opção C31 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 31."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 32?",
+        "opcoes": [
+            "Opção A32 (incorreta)",
+            "Opção B32 (incorreta)",
+            "Opção C32 (correta)",
+            "Opção D32 (incorreta)"
+        ],
+        "resposta": "Opção C32 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 32."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 33?",
+        "opcoes": [
+            "Opção A33 (incorreta)",
+            "Opção B33 (incorreta)",
+            "Opção C33 (correta)",
+            "Opção D33 (incorreta)"
+        ],
+        "resposta": "Opção C33 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 33."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 34?",
+        "opcoes": [
+            "Opção A34 (incorreta)",
+            "Opção B34 (incorreta)",
+            "Opção C34 (correta)",
+            "Opção D34 (incorreta)"
+        ],
+        "resposta": "Opção C34 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 34."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 35?",
+        "opcoes": [
+            "Opção A35 (incorreta)",
+            "Opção B35 (incorreta)",
+            "Opção C35 (correta)",
+            "Opção D35 (incorreta)"
+        ],
+        "resposta": "Opção C35 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 35."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 36?",
+        "opcoes": [
+            "Opção A36 (incorreta)",
+            "Opção B36 (incorreta)",
+            "Opção C36 (correta)",
+            "Opção D36 (incorreta)"
+        ],
+        "resposta": "Opção C36 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 36."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 37?",
+        "opcoes": [
+            "Opção A37 (incorreta)",
+            "Opção B37 (incorreta)",
+            "Opção C37 (correta)",
+            "Opção D37 (incorreta)"
+        ],
+        "resposta": "Opção C37 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 37."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 38?",
+        "opcoes": [
+            "Opção A38 (incorreta)",
+            "Opção B38 (incorreta)",
+            "Opção C38 (correta)",
+            "Opção D38 (incorreta)"
+        ],
+        "resposta": "Opção C38 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 38."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 39?",
+        "opcoes": [
+            "Opção A39 (incorreta)",
+            "Opção B39 (incorreta)",
+            "Opção C39 (correta)",
+            "Opção D39 (incorreta)"
+        ],
+        "resposta": "Opção C39 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 39."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 40?",
+        "opcoes": [
+            "Opção A40 (incorreta)",
+            "Opção B40 (incorreta)",
+            "Opção C40 (correta)",
+            "Opção D40 (incorreta)"
+        ],
+        "resposta": "Opção C40 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 40."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 41?",
+        "opcoes": [
+            "Opção A41 (incorreta)",
+            "Opção B41 (incorreta)",
+            "Opção C41 (correta)",
+            "Opção D41 (incorreta)"
+        ],
+        "resposta": "Opção C41 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 41."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 42?",
+        "opcoes": [
+            "Opção A42 (incorreta)",
+            "Opção B42 (incorreta)",
+            "Opção C42 (correta)",
+            "Opção D42 (incorreta)"
+        ],
+        "resposta": "Opção C42 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 42."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 43?",
+        "opcoes": [
+            "Opção A43 (incorreta)",
+            "Opção B43 (incorreta)",
+            "Opção C43 (correta)",
+            "Opção D43 (incorreta)"
+        ],
+        "resposta": "Opção C43 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 43."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 44?",
+        "opcoes": [
+            "Opção A44 (incorreta)",
+            "Opção B44 (incorreta)",
+            "Opção C44 (correta)",
+            "Opção D44 (incorreta)"
+        ],
+        "resposta": "Opção C44 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 44."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 45?",
+        "opcoes": [
+            "Opção A45 (incorreta)",
+            "Opção B45 (incorreta)",
+            "Opção C45 (correta)",
+            "Opção D45 (incorreta)"
+        ],
+        "resposta": "Opção C45 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 45."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 46?",
+        "opcoes": [
+            "Opção A46 (incorreta)",
+            "Opção B46 (incorreta)",
+            "Opção C46 (correta)",
+            "Opção D46 (incorreta)"
+        ],
+        "resposta": "Opção C46 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 46."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 47?",
+        "opcoes": [
+            "Opção A47 (incorreta)",
+            "Opção B47 (incorreta)",
+            "Opção C47 (correta)",
+            "Opção D47 (incorreta)"
+        ],
+        "resposta": "Opção C47 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 47."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 48?",
+        "opcoes": [
+            "Opção A48 (incorreta)",
+            "Opção B48 (incorreta)",
+            "Opção C48 (correta)",
+            "Opção D48 (incorreta)"
+        ],
+        "resposta": "Opção C48 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 48."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 49?",
+        "opcoes": [
+            "Opção A49 (incorreta)",
+            "Opção B49 (incorreta)",
+            "Opção C49 (correta)",
+            "Opção D49 (incorreta)"
+        ],
+        "resposta": "Opção C49 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 49."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 50?",
+        "opcoes": [
+            "Opção A50 (incorreta)",
+            "Opção B50 (incorreta)",
+            "Opção C50 (correta)",
+            "Opção D50 (incorreta)"
+        ],
+        "resposta": "Opção C50 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 50."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 51?",
+        "opcoes": [
+            "Opção A51 (incorreta)",
+            "Opção B51 (incorreta)",
+            "Opção C51 (correta)",
+            "Opção D51 (incorreta)"
+        ],
+        "resposta": "Opção C51 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 51."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 52?",
+        "opcoes": [
+            "Opção A52 (incorreta)",
+            "Opção B52 (incorreta)",
+            "Opção C52 (correta)",
+            "Opção D52 (incorreta)"
+        ],
+        "resposta": "Opção C52 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 52."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 53?",
+        "opcoes": [
+            "Opção A53 (incorreta)",
+            "Opção B53 (incorreta)",
+            "Opção C53 (correta)",
+            "Opção D53 (incorreta)"
+        ],
+        "resposta": "Opção C53 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 53."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 54?",
+        "opcoes": [
+            "Opção A54 (incorreta)",
+            "Opção B54 (incorreta)",
+            "Opção C54 (correta)",
+            "Opção D54 (incorreta)"
+        ],
+        "resposta": "Opção C54 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 54."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 55?",
+        "opcoes": [
+            "Opção A55 (incorreta)",
+            "Opção B55 (incorreta)",
+            "Opção C55 (correta)",
+            "Opção D55 (incorreta)"
+        ],
+        "resposta": "Opção C55 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 55."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 56?",
+        "opcoes": [
+            "Opção A56 (incorreta)",
+            "Opção B56 (incorreta)",
+            "Opção C56 (correta)",
+            "Opção D56 (incorreta)"
+        ],
+        "resposta": "Opção C56 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 56."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 57?",
+        "opcoes": [
+            "Opção A57 (incorreta)",
+            "Opção B57 (incorreta)",
+            "Opção C57 (correta)",
+            "Opção D57 (incorreta)"
+        ],
+        "resposta": "Opção C57 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 57."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 58?",
+        "opcoes": [
+            "Opção A58 (incorreta)",
+            "Opção B58 (incorreta)",
+            "Opção C58 (correta)",
+            "Opção D58 (incorreta)"
+        ],
+        "resposta": "Opção C58 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 58."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 59?",
+        "opcoes": [
+            "Opção A59 (incorreta)",
+            "Opção B59 (incorreta)",
+            "Opção C59 (correta)",
+            "Opção D59 (incorreta)"
+        ],
+        "resposta": "Opção C59 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 59."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 60?",
+        "opcoes": [
+            "Opção A60 (incorreta)",
+            "Opção B60 (incorreta)",
+            "Opção C60 (correta)",
+            "Opção D60 (incorreta)"
+        ],
+        "resposta": "Opção C60 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 60."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 61?",
+        "opcoes": [
+            "Opção A61 (incorreta)",
+            "Opção B61 (incorreta)",
+            "Opção C61 (correta)",
+            "Opção D61 (incorreta)"
+        ],
+        "resposta": "Opção C61 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 61."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 62?",
+        "opcoes": [
+            "Opção A62 (incorreta)",
+            "Opção B62 (incorreta)",
+            "Opção C62 (correta)",
+            "Opção D62 (incorreta)"
+        ],
+        "resposta": "Opção C62 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 62."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 63?",
+        "opcoes": [
+            "Opção A63 (incorreta)",
+            "Opção B63 (incorreta)",
+            "Opção C63 (correta)",
+            "Opção D63 (incorreta)"
+        ],
+        "resposta": "Opção C63 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 63."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 64?",
+        "opcoes": [
+            "Opção A64 (incorreta)",
+            "Opção B64 (incorreta)",
+            "Opção C64 (correta)",
+            "Opção D64 (incorreta)"
+        ],
+        "resposta": "Opção C64 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 64."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 65?",
+        "opcoes": [
+            "Opção A65 (incorreta)",
+            "Opção B65 (incorreta)",
+            "Opção C65 (correta)",
+            "Opção D65 (incorreta)"
+        ],
+        "resposta": "Opção C65 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 65."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 66?",
+        "opcoes": [
+            "Opção A66 (incorreta)",
+            "Opção B66 (incorreta)",
+            "Opção C66 (correta)",
+            "Opção D66 (incorreta)"
+        ],
+        "resposta": "Opção C66 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 66."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 67?",
+        "opcoes": [
+            "Opção A67 (incorreta)",
+            "Opção B67 (incorreta)",
+            "Opção C67 (correta)",
+            "Opção D67 (incorreta)"
+        ],
+        "resposta": "Opção C67 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 67."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 68?",
+        "opcoes": [
+            "Opção A68 (incorreta)",
+            "Opção B68 (incorreta)",
+            "Opção C68 (correta)",
+            "Opção D68 (incorreta)"
+        ],
+        "resposta": "Opção C68 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 68."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 69?",
+        "opcoes": [
+            "Opção A69 (incorreta)",
+            "Opção B69 (incorreta)",
+            "Opção C69 (correta)",
+            "Opção D69 (incorreta)"
+        ],
+        "resposta": "Opção C69 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 69."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 70?",
+        "opcoes": [
+            "Opção A70 (incorreta)",
+            "Opção B70 (incorreta)",
+            "Opção C70 (correta)",
+            "Opção D70 (incorreta)"
+        ],
+        "resposta": "Opção C70 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 70."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 71?",
+        "opcoes": [
+            "Opção A71 (incorreta)",
+            "Opção B71 (incorreta)",
+            "Opção C71 (correta)",
+            "Opção D71 (incorreta)"
+        ],
+        "resposta": "Opção C71 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 71."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 72?",
+        "opcoes": [
+            "Opção A72 (incorreta)",
+            "Opção B72 (incorreta)",
+            "Opção C72 (correta)",
+            "Opção D72 (incorreta)"
+        ],
+        "resposta": "Opção C72 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 72."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 73?",
+        "opcoes": [
+            "Opção A73 (incorreta)",
+            "Opção B73 (incorreta)",
+            "Opção C73 (correta)",
+            "Opção D73 (incorreta)"
+        ],
+        "resposta": "Opção C73 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 73."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 74?",
+        "opcoes": [
+            "Opção A74 (incorreta)",
+            "Opção B74 (incorreta)",
+            "Opção C74 (correta)",
+            "Opção D74 (incorreta)"
+        ],
+        "resposta": "Opção C74 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 74."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 75?",
+        "opcoes": [
+            "Opção A75 (incorreta)",
+            "Opção B75 (incorreta)",
+            "Opção C75 (correta)",
+            "Opção D75 (incorreta)"
+        ],
+        "resposta": "Opção C75 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 75."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 76?",
+        "opcoes": [
+            "Opção A76 (incorreta)",
+            "Opção B76 (incorreta)",
+            "Opção C76 (correta)",
+            "Opção D76 (incorreta)"
+        ],
+        "resposta": "Opção C76 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 76."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 77?",
+        "opcoes": [
+            "Opção A77 (incorreta)",
+            "Opção B77 (incorreta)",
+            "Opção C77 (correta)",
+            "Opção D77 (incorreta)"
+        ],
+        "resposta": "Opção C77 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 77."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 78?",
+        "opcoes": [
+            "Opção A78 (incorreta)",
+            "Opção B78 (incorreta)",
+            "Opção C78 (correta)",
+            "Opção D78 (incorreta)"
+        ],
+        "resposta": "Opção C78 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 78."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 79?",
+        "opcoes": [
+            "Opção A79 (incorreta)",
+            "Opção B79 (incorreta)",
+            "Opção C79 (correta)",
+            "Opção D79 (incorreta)"
+        ],
+        "resposta": "Opção C79 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 79."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 80?",
+        "opcoes": [
+            "Opção A80 (incorreta)",
+            "Opção B80 (incorreta)",
+            "Opção C80 (correta)",
+            "Opção D80 (incorreta)"
+        ],
+        "resposta": "Opção C80 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 80."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 81?",
+        "opcoes": [
+            "Opção A81 (incorreta)",
+            "Opção B81 (incorreta)",
+            "Opção C81 (correta)",
+            "Opção D81 (incorreta)"
+        ],
+        "resposta": "Opção C81 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 81."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 82?",
+        "opcoes": [
+            "Opção A82 (incorreta)",
+            "Opção B82 (incorreta)",
+            "Opção C82 (correta)",
+            "Opção D82 (incorreta)"
+        ],
+        "resposta": "Opção C82 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 82."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 83?",
+        "opcoes": [
+            "Opção A83 (incorreta)",
+            "Opção B83 (incorreta)",
+            "Opção C83 (correta)",
+            "Opção D83 (incorreta)"
+        ],
+        "resposta": "Opção C83 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 83."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 84?",
+        "opcoes": [
+            "Opção A84 (incorreta)",
+            "Opção B84 (incorreta)",
+            "Opção C84 (correta)",
+            "Opção D84 (incorreta)"
+        ],
+        "resposta": "Opção C84 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 84."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 85?",
+        "opcoes": [
+            "Opção A85 (incorreta)",
+            "Opção B85 (incorreta)",
+            "Opção C85 (correta)",
+            "Opção D85 (incorreta)"
+        ],
+        "resposta": "Opção C85 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 85."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 86?",
+        "opcoes": [
+            "Opção A86 (incorreta)",
+            "Opção B86 (incorreta)",
+            "Opção C86 (correta)",
+            "Opção D86 (incorreta)"
+        ],
+        "resposta": "Opção C86 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 86."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 87?",
+        "opcoes": [
+            "Opção A87 (incorreta)",
+            "Opção B87 (incorreta)",
+            "Opção C87 (correta)",
+            "Opção D87 (incorreta)"
+        ],
+        "resposta": "Opção C87 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 87."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 88?",
+        "opcoes": [
+            "Opção A88 (incorreta)",
+            "Opção B88 (incorreta)",
+            "Opção C88 (correta)",
+            "Opção D88 (incorreta)"
+        ],
+        "resposta": "Opção C88 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 88."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 89?",
+        "opcoes": [
+            "Opção A89 (incorreta)",
+            "Opção B89 (incorreta)",
+            "Opção C89 (correta)",
+            "Opção D89 (incorreta)"
+        ],
+        "resposta": "Opção C89 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 89."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 90?",
+        "opcoes": [
+            "Opção A90 (incorreta)",
+            "Opção B90 (incorreta)",
+            "Opção C90 (correta)",
+            "Opção D90 (incorreta)"
+        ],
+        "resposta": "Opção C90 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 90."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 91?",
+        "opcoes": [
+            "Opção A91 (incorreta)",
+            "Opção B91 (incorreta)",
+            "Opção C91 (correta)",
+            "Opção D91 (incorreta)"
+        ],
+        "resposta": "Opção C91 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 91."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 92?",
+        "opcoes": [
+            "Opção A92 (incorreta)",
+            "Opção B92 (incorreta)",
+            "Opção C92 (correta)",
+            "Opção D92 (incorreta)"
+        ],
+        "resposta": "Opção C92 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 92."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 93?",
+        "opcoes": [
+            "Opção A93 (incorreta)",
+            "Opção B93 (incorreta)",
+            "Opção C93 (correta)",
+            "Opção D93 (incorreta)"
+        ],
+        "resposta": "Opção C93 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 93."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 94?",
+        "opcoes": [
+            "Opção A94 (incorreta)",
+            "Opção B94 (incorreta)",
+            "Opção C94 (correta)",
+            "Opção D94 (incorreta)"
+        ],
+        "resposta": "Opção C94 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 94."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 95?",
+        "opcoes": [
+            "Opção A95 (incorreta)",
+            "Opção B95 (incorreta)",
+            "Opção C95 (correta)",
+            "Opção D95 (incorreta)"
+        ],
+        "resposta": "Opção C95 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 95."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 96?",
+        "opcoes": [
+            "Opção A96 (incorreta)",
+            "Opção B96 (incorreta)",
+            "Opção C96 (correta)",
+            "Opção D96 (incorreta)"
+        ],
+        "resposta": "Opção C96 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 96."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 97?",
+        "opcoes": [
+            "Opção A97 (incorreta)",
+            "Opção B97 (incorreta)",
+            "Opção C97 (correta)",
+            "Opção D97 (incorreta)"
+        ],
+        "resposta": "Opção C97 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 97."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 98?",
+        "opcoes": [
+            "Opção A98 (incorreta)",
+            "Opção B98 (incorreta)",
+            "Opção C98 (correta)",
+            "Opção D98 (incorreta)"
+        ],
+        "resposta": "Opção C98 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 98."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 99?",
+        "opcoes": [
+            "Opção A99 (incorreta)",
+            "Opção B99 (incorreta)",
+            "Opção C99 (correta)",
+            "Opção D99 (incorreta)"
+        ],
+        "resposta": "Opção C99 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 99."
+    },
+    {
+        "pergunta": "Qual conceito de lógica ou programação é mais aplicável na situação número 100?",
+        "opcoes": [
+            "Opção A100 (incorreta)",
+            "Opção B100 (incorreta)",
+            "Opção C100 (correta)",
+            "Opção D100 (incorreta)"
+        ],
+        "resposta": "Opção C100 (correta)",
+        "dica": "Pense no conteúdo estudado no módulo relacionado à questão 100."
+    }
+]
