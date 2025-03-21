@@ -1,7 +1,4 @@
-# Show do Milhão Python - Etapa 1: Estrutura Inicial
-
-# Etapa: Boas-vindas e Menu Inicial
-
+# etapa1_intro.py
 def exibir_menu():
     print("=" * 50)
     print(" BEM-VINDO AO SHOW DO MILHÃO - VERSÃO PYTHON")
@@ -11,6 +8,6 @@ def exibir_menu():
     print("Boa sorte!\n")
     input("Pressione Enter para iniciar o jogo...")
 
-# Executar a função menu para iniciar
-exibir_menu()
-
+# Só executa se for chamado diretamente
+if __name__ == "__main__":
+    exibir_menu()
