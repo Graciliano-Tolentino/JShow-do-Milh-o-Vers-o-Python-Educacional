@@ -70,6 +70,10 @@ class ShowDoMilhaoApp:
             wraplength=600, font=("Helvetica", 16, "bold"), bg="#ffffff"
         ).pack(pady=20)
 
+        tk.Label(
+            self.frame, text=f"Pontuação: {self.pontuacao}", font=("Helvetica", 12), bg="#ffffff", fg="#555555"
+        ).pack()
+
         self.botoes_opcoes = []
         for opcao in self.pergunta_atual['opcoes']:
             btn = tk.Button(
@@ -134,6 +138,7 @@ class ShowDoMilhaoApp:
         tk.Button(self.frame, text="Jogar Novamente", command=self.reiniciar).pack()
 
     def reiniciar(self):
+        self.frame.destroy()
         self.__init__(self.master)
 
 if __name__ == "__main__":
