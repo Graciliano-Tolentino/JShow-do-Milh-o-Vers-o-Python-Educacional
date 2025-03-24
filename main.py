@@ -15,7 +15,7 @@ def rodar_terminal():
     from scripts.encerrar_jogo import encerrar_jogo
 
     exibir_menu()
-    pontuacao = jogar()  # Captura a pontuação final do jogador
+    pontuacao = jogar()
     encerrar_jogo(pontuacao)
 
 def rodar_tkinter():
@@ -33,7 +33,7 @@ if __name__ == "__main__":
             rodar_terminal()
         elif opcao == "2":
             rodar_tkinter()
-            break  # Interface gráfica fecha manualmente
+            break
         elif opcao == "3":
             print("Até logo!")
             break
